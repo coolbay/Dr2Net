@@ -5,4 +5,4 @@ Repository for the CVPR24 paper Dr^2Net: Dynamic Reversible Dual-Residual Networ
 
 Pleaser refer to the repo https://github.com/sming256/OpenTAD.git for an implementation of the preceding work Re^2TAL.
 
-We are working on the code of Dr^2Net. Please stay tuned.
+If you have questions or need the code of Dr2Net, please contact the first author of the paper.
